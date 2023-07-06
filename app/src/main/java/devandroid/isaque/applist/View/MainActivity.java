@@ -1,8 +1,10 @@
-package devandroid.isaque.applist;
+package devandroid.isaque.applist.View;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import devandroid.isaque.applist.R;
 
 public class MainActivity extends AppCompatActivity {
     @Override
